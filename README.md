@@ -6,6 +6,9 @@ HTML
 CSS
 JavaScript
 Git
+React
+Typescript
+NextJS
 ## Projects
 Here is the latest project I've worked on recently:
 
