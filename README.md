@@ -7,11 +7,9 @@ CSS
 JavaScript
 Git
 ## Projects
-Here are a few of the projects I've worked on recently:
+Here is the latest project I've worked on recently:
 
-- Project Name 1: Description of project 1.
-- Project Name 2: Description of project 2.
-- Project Name 3: Description of project 3.
+- ProperTEasy: A full-stack property website, connecting landlords with high-quality tenants and streamlining the rental process. With user-friendly features like tenant history, maintenance requests, and property reviews, PropertEasy enhances property management and tenant interactions. check it out @ https://www.properteasy.co.nz/
 
 ## Interests 
 In my free time, I enjoy exploring new technologies, and building personal projects to further develop my skills.
