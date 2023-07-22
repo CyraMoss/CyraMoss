@@ -2,13 +2,13 @@
 I'm a recent graduate of the Mission Ready advanced software developer course, where I learned more about software engineering and developed hands-on experience with HTML, CSS, and JavaScript. Although I don't have any professional experience yet, I'm passionate about exploring new technologies and continuing to learn and grow as a developer.
 
 ## Skills
-HTML
-CSS
-JavaScript
-Git
-React
-Typescript
-NextJS
+- HTML
+- CSS
+- JavaScript
+- Git
+- React
+- Typescript
+- NextJS
 ## Projects
 Here is the latest project I've worked on recently:
 
